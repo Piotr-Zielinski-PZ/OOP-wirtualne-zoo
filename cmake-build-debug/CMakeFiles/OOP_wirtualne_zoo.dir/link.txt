@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/OOP_wirtualne_zoo.dir/Donkey.cpp.o CMakeFiles/OOP_wirtualne_zoo.dir/Elephant.cpp.o CMakeFiles/OOP_wirtualne_zoo.dir/GameManager.cpp.o CMakeFiles/OOP_wirtualne_zoo.dir/Human.cpp.o CMakeFiles/OOP_wirtualne_zoo.dir/Monkey.cpp.o CMakeFiles/OOP_wirtualne_zoo.dir/Player.cpp.o CMakeFiles/OOP_wirtualne_zoo.dir/Virtualne_ZOO.cpp.o -o OOP_wirtualne_zoo 
